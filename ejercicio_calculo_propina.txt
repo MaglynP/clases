@@ -1,0 +1,36 @@
+1.Inicio  proceso de facturacion  
+2. Solicitar de plato,bebida,postre 
+3. Calcular subtotal 
+4. Calcular propina  
+5. Calcular total    
+6. Fin
+
+
+---------------
+
+let plato = 6.000
+undefined
+let plato  = 6000
+undefined
+plato
+6000
+let bebida = 2000
+undefined
+bebida
+2000
+let postre = 3000
+undefined
+postre
+3000
+let result = 6000 + 2000 + 3000
+undefined
+result
+11000
+let propina = 0.1 * result
+undefined
+propina
+1100
+let total = result + propina
+undefined
+result + propina
+12100
